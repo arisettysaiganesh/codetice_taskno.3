@@ -1,8 +1,8 @@
 # codetice_taskno.3
 Plagiarism Checker in Python
-Sure, here's a sample `README.md` file for your GitHub repository to describe the code you provided:
 
-```markdown
+
+
 # Plagiarism Checker
 
 This is a simple plagiarism checker application built in Python using the tkinter library for the user interface and the difflib library to calculate text similarity.
